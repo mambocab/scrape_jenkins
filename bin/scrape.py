@@ -6,7 +6,7 @@ from jenkinsapi.jenkins import Jenkins
 from jenkinsapi.custom_exceptions import NoResults
 
 
-JOB_NAME = 'trunk_dtest'
+JOB_NAME = 'cassandra-2.1_dtest'
 RESULTS_DIR = os.path.join('data', JOB_NAME)
 JENKINS_URL = 'http://cassci.datastax.com/'
 
