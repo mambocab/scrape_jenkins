@@ -6,3 +6,4 @@ plotly
 ipy_table
 sortedcontainers
 tabulate
+requests
